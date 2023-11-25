@@ -1,0 +1,1 @@
+C:\Users\HaMeD\source\repos\todo-react-app\todo-react-app.client\obj\Release\todo-react-app.client.esproj.CoreCompileInputs.cache

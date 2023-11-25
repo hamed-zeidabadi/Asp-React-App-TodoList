@@ -1,0 +1,12 @@
+C:\Users\HaMeD\source\repos\todo-react-app\todo-react-app.Server\obj\Release\net6.0\PubTmp\Out\todo-react-app.Server.exe
+C:\Users\HaMeD\source\repos\todo-react-app\todo-react-app.Server\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\HaMeD\source\repos\todo-react-app\todo-react-app.Server\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\HaMeD\source\repos\todo-react-app\todo-react-app.Server\obj\Release\net6.0\PubTmp\Out\todo-react-app.Server.dll
+C:\Users\HaMeD\source\repos\todo-react-app\todo-react-app.Server\obj\Release\net6.0\PubTmp\Out\todo-react-app.Server.deps.json
+C:\Users\HaMeD\source\repos\todo-react-app\todo-react-app.Server\obj\Release\net6.0\PubTmp\Out\todo-react-app.Server.runtimeconfig.json
+C:\Users\HaMeD\source\repos\todo-react-app\todo-react-app.Server\obj\Release\net6.0\PubTmp\Out\todo-react-app.Server.pdb
+C:\Users\HaMeD\source\repos\todo-react-app\todo-react-app.Server\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\HaMeD\source\repos\todo-react-app\todo-react-app.Server\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\HaMeD\source\repos\todo-react-app\todo-react-app.Server\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HaMeD\source\repos\todo-react-app\todo-react-app.Server\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HaMeD\source\repos\todo-react-app\todo-react-app.Server\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

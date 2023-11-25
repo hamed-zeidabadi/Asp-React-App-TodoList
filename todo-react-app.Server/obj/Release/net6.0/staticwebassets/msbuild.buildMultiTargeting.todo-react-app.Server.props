@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\todo-react-app.Server.props" />
+</Project>
